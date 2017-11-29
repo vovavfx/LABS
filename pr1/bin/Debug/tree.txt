@@ -1,0 +1,9 @@
+ *pr1.exe
+ *pr1.pdb
+ *pr1.vshost.exe
+ *pr1.vshost.exe.manifest
+ *tree.txt
+-+dir
+--+\dir2_1
+---+\dir3
+--+\dir2_2
